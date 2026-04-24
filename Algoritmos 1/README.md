@@ -9,10 +9,10 @@ Repositório com exercícios e trabalhos desenvolvidos durante o primeiro semest
 - Lógica de programação (condicionais, entrada e saída de dados)
 
 🎯 Objetivo
-Desenvolver a base da lógica de programação e resolução de problemas utilizando C++.
+ - Desenvolver a base da lógica de programação e resolução de problemas utilizando C++.
 
 📂 Organização
-Os arquivos estão organizados conforme listas de exercícios e atividades propostas ao longo da disciplina.
+ - Os arquivos estão organizados conforme listas de exercícios e atividades propostas ao longo da disciplina.
 
 🚀 Observação
-Este repositório faz parte do meu processo de aprendizado e será atualizado conforme avanço nos estudos.
+- Este repositório faz parte do meu processo de aprendizado e será atualizado conforme avanço nos estudos.
